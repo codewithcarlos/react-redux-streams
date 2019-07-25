@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "I Created A Stream Anonymous",
+      "description": "This comes with the userid??",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should be redirected to the streams page",
+      "id": 7
+    },
+    {
+      "title": "Test",
+      "description": "This",
+      "userId": "103162881742166805135",
+      "id": 8
+    }
+  ]
+}
